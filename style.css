@@ -55,14 +55,14 @@
     border-bottom-left-radius: 1rem;
 }
 .navigation  .nav-brand{
-text-align: right;
+text-align: center;
 }
 .navigation.link{
     color:white;
 }
 
 .navigation .nav-text{
- text-align: right;
+ text-align: center;
 }
 
 .navigation.link-active{
@@ -76,10 +76,12 @@ font-weight: bold;
     max-width: 350px;
     display: block;
     margin: auto;
+    text-align: center;
 }
 .hero .hero-heading{
  color:var(--dark-gray);
  padding: 1rem;
+ text-align: center;
 }
 
 .ow{
@@ -88,7 +90,7 @@ font-weight: bold;
 
 footer{
     background-color: var(--primary-color);
-    padding: 2rem 0rem;
+    padding: 0rem 0rem;
     text-align: center;
     color: white;
     border-top-right-radius: 1rem;
